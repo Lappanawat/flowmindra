@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+pandas==2.2.3
+scikit-learn==1.6.0
+numpy==1.26.4
+matplotlib==3.10.0
+librosa==0.10.2.post1
+joblib==1.4.2
+scipy==1.14.1
+python-multipart==0.0.20
+requests==2.31.0
+streamlit==1.27.0
